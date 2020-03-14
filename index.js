@@ -1,5 +1,5 @@
 var animal = 'dog'
-const = 2
+
 
 function myAnimal() {
   return animal
@@ -11,6 +11,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  const two = 2
   return n + two
 }
 
